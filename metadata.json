@@ -1,0 +1,6 @@
+{
+  "name": "La Salle Conecta",
+  "description": "Plataforma integrada de desenvolvimento da infância, estimulando o cuidado, a inclusão e a gestão educacional com auxílio do assistente pedagógico Lumi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
